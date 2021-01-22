@@ -1,2 +1,25 @@
 # SCRUM/GIT TUT
-One page template, a great choice for creating a personal portfolio website, including services, projects and contact form with nice and smooth scrolling through the sections. Modern and clean HTML5 template, perfect for your online CV.
+Portfolio template
+==================
+This is a pretty snazzy looking template for a portfolio website.
+
+
+
+Used Assets
+=================
+Css
+-Bootstrap
+-responsive
+------
+Javascript
+-Bootstrap
+-Jquery
+-Skrollr
+------
+Fonts
+-Fontello
+-Glyphicons halflings regular
+------
+
+
+
